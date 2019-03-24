@@ -80,7 +80,7 @@ public class MainActivity extends ConnectionScreen {
                 int port = Integer.parseInt(getTcpPortNumber());
                 connection = new TcpConnection(getTcpAddress(), port);
             } catch (NumberFormatException e) {
-                helper.showErrorDialogOnGuiThread("Port number is invalid");
+                helper.showErrorDialogOnGuiThread("Port number is invalidd");
                 return;
             }
         } else {
