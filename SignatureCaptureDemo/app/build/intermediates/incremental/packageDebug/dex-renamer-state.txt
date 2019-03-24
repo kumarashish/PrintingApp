@@ -1,0 +1,7 @@
+#Sun Mar 24 21:19:26 IST 2019
+base.0=/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea8567e792cfd8236df6de8ba862e1354d6eb9fd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6aa8aad15c4b8e7116e90199d611f50ee1d5130e/classes.dex
+base.1=/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6aa8aad15c4b8e7116e90199d611f50ee1d5130e
+file.0=/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea8567e792cfd8236df6de8ba862e1354d6eb9fd/classes.dex

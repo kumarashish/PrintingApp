@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:6:5-68
+MERGED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:7:5-74
+MERGED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:8:5-86
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:8:22-83
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:14:19-67
+application
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:17:5-34:19
+MERGED from [com.android.support:design:22.2.0] /Users/admin/.android/build-cache/f602378ed0cbf5eda50bfaca980dba3b338f2d29/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/admin/.android/build-cache/89c40f0a2fecf182a566a1d814857251745e4af1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/admin/.android/build-cache/b6279fdb8e20e1dc1bf45470e7d513ad3836c7df/output/AndroidManifest.xml:22:5-20
+MERGED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:19:5-38:19
+	android:label
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:23:9-35
+	android:allowBackup
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:20:9-45
+		REJECTED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:22:9-40
+	tools:replace
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:18:9-37
+activity#com.zebra.signaturecapturedemo.MainActivity
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:25:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:22.2.0] /Users/admin/.android/build-cache/f602378ed0cbf5eda50bfaca980dba3b338f2d29/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/admin/.android/build-cache/89c40f0a2fecf182a566a1d814857251745e4af1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/admin/.android/build-cache/b6279fdb8e20e1dc1bf45470e7d513ad3836c7df/output/AndroidManifest.xml:20:5-43
+MERGED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:17:22-77
+activity#com.dimagi.android.zebraprinttool.MainActivity
+ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:24:9-27:20
+	android:theme
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:25:13-74
+activity#com.dimagi.android.zebraprinttool.PrintReceiverActivity
+ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:30:13-66
+	android:theme
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:29:13-83
+intent-filter#android.intent.category.DEFAULT+com.dimagi.android.zebraprinttool.action.PrintTemplate
+ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:32:13-36:29
+action#com.dimagi.android.zebraprinttool.action.PrintTemplate
+ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:33:17-97
+	android:name
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:33:25-94
+category#android.intent.category.DEFAULT
+ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from [SignatureCaptureDemo:android-zebra-interface-1.1:unspecified] /Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/AndroidManifest.xml:35:27-73

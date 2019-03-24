@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/res/merged/debug/menu/main_activity.xml",
+        "source": "/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/res/menu/main_activity.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/src/main/res/menu/menu_main.xml"
+    }
+]

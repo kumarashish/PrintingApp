@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/f602378ed0cbf5eda50bfaca980dba3b338f2d29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14d051e6a8ffb36ff76bf718b0573024f70ab5be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/jackson-databind-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-databind-2.2.3_b61a67f821c2cd26bf028af940a1100ad7e062ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bb89b891d72e4bc1eee37aa555fa726c3bc8d35">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_d867c13e10ea23ae301db029f8a6c8293ba9243d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/snmp6_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01e9c0ca7bb58fc825a86beefe7d96b96cac765a">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/snmp6_1_36907854190763ca143338befe9e1409479015b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/commons-io-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.2_9eb3d5c697ea9d436dcd73cce1ab6f14bb823ba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6aa8aad15c4b8e7116e90199d611f50ee1d5130e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/commons-validator-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e72aaeb731f1f933ace77ab4f2ea49f05d648177">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-validator-1.4.0_c4d8cffd95924cccd28926b98d6b5e8a6bcbc657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/jackson-databind-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48ba0d6a4c524d6956c5d7011cff007db54143af">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.3_ca4a1be1ca22f22d851ee9de1a4f2f7caad85431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-core-2.2.3_5a5e21762e39dd7a4c5bd1e8da7755cfdd35b982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8737c72ed2b3e4f777fad3dc770a3e4bc2b2eb77">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea8567e792cfd8236df6de8ba862e1354d6eb9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/opencsv-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1231104847b1132a07c54c7db8a823ef7923f7c">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencsv-2.2_f5f6c5ca2e6734b9a8ee79418cb34826cf41e4f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/89c40f0a2fecf182a566a1d814857251745e4af1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8c9d4ed744c38f27ae95dcda38b1d87c679a859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/snmp6_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bca89e1d2d15cd384cc8aa6cef9940fb9ad6469">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/snmp6_1_2156de46db9b535d958116dc0bfc525cde79447a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/b6279fdb8e20e1dc1bf45470e7d513ad3836c7df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1da4ec3115137842628a531867086a496636f6fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08b1d75b87b21067052b0dcc22497885d1ea603f">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_569ebeace7903aeea0937bdfcc8a4bba3431c9e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/jackson-annotations-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="270a6a30926bade0696a2ed92bfbd1d7f7027813">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.3_867523c164f56a97130c1481c7520fe759da58c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_0f1c521143cf9cb8037937ea6716bb3a33e0f379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/jackson-annotations-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0527fece4f23a457070a36c371a26d6c0208e1c3">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-annotations-2.2.3_0906b06d99531b4e4c28b1c3c4863cc866aa3629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/commons-io-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10f00b40abcc942ec42b152f115766aac6ba8798">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.2_a7a65c1594f318f0dac2cbec2b0d33865c6b1f53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/ZSDK_ANDROID_API.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d45aee653da921b2c585abbf384d691acb5d41b">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/ZSDK_ANDROID_API_b61ca3d23597a04fce21a2dc1ead10a0bf15c81d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="036ccccf697a8cf955f6cc046b5ceddbfe0e7586">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea1a1cc52365794bd113e48bfca013e8e7c2237d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/opencsv-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e2345b994f49aeca57b86b78b3085892cf8be37">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/opencsv-2.2_d9dccc260d3bb983f796e465265d50a9a9b547b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.4_0b1ce5bcad15c0725e80c78c496eaa895f4cb9ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/commons-net-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4eea61b55998c3c898d30483334155a1e699b5a0">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-net-3.1_dc6c0c0cd510f5c063f433b7e53024097f2db9d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/commons-net-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2298164a7c2484406f2aa5ac85b205d39019896f">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-net-3.1_42b36823f62bfe595daae351d91b39a2f809bc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/b6279fdb8e20e1dc1bf45470e7d513ad3836c7df/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_d99e981ea3542ba9afb48e0280dce22b29fe4ea4/classes.dex" />
+    </item>
+
+</items>

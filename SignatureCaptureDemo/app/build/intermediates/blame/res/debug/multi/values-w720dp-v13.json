@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/89c40f0a2fecf182a566a1d814857251745e4af1/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    }
+]
