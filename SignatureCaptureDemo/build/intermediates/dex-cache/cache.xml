@@ -66,15 +66,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/jackson-databind-2.2.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="48ba0d6a4c524d6956c5d7011cff007db54143af">
-        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.3_ca4a1be1ca22f22d851ee9de1a4f2f7caad85431/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/libs/jackson-core-2.2.3.jar"
         jumboMode="true"
         optimize="true"
@@ -84,11 +75,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1349813960b7eb9c03dd4de3b3d44297f1004f23/output/jars/libs/jackson-databind-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48ba0d6a4c524d6956c5d7011cff007db54143af">
+        <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.3_ca4a1be1ca22f22d851ee9de1a4f2f7caad85431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8737c72ed2b3e4f777fad3dc770a3e4bc2b2eb77">
+        sha1="ade1c1141a10342126797365f6edae41a3f5584f">
         <dex dex="/Users/admin/Downloads/LinkOS-Android-Samples-SignatureCaptureDemo/SignatureCaptureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea8567e792cfd8236df6de8ba862e1354d6eb9fd/classes.dex" />
     </item>
     <item
